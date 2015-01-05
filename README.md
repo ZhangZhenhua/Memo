@@ -1,4 +1,2 @@
-zhangzh-blog
+zhangzh-memo-pieces
 ============
-
-wild thoughts
